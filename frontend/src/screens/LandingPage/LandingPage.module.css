@@ -1,0 +1,44 @@
+.formContainer{
+    margin-top: 5rem;
+    padding: 0 8rem;
+    width: 65%;
+}
+
+.formTitle{
+    color: #2c4384;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.formTitle h3{
+    font-size: 2rem;
+}
+
+.formInput{
+    padding: 0.5rem 5rem;
+}
+
+.formInput input{
+    caret-color: #2c4384;
+    padding: 1rem 0.5rem;
+}
+
+.formButton{
+    background-color: #2c4384;
+    color: #d2dde8;
+    border: none;
+    padding: 0.5rem 1.5rem;
+    margin: 1rem 5rem;
+}
+
+.formButton:hover{
+    color: #2c4384;
+    background-color: #d2dde8;
+}
+
+.pageSpinner{
+    position: absolute;
+    z-index: 5;
+    top: 50%;
+    left: 50%;
+}

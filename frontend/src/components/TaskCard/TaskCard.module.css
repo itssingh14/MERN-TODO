@@ -1,0 +1,44 @@
+.card{
+    margin: 1rem 0;
+    padding: 0.7rem 2rem;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cardTitle{
+    padding-top: 0.5rem;
+    color: #2c4384;
+}
+
+.btnCol{
+    text-align: right;
+}
+
+.deleteBtn{
+    color: red;
+    background-color: #fff;
+    outline: red solid 0.01rem;
+    padding: 0.4rem 1.7rem;
+    border: none;
+}
+
+.deleteBtn:hover{
+    color: #fff;
+    background-color: red;
+    outline: red solid 0.01rem;
+}
+
+.editBtn{
+    color: gold;
+    background-color: #fff;
+    outline: gold solid 0.01rem;
+    padding: 0.4rem 1.7rem;
+    border : none
+}
+
+.editBtn:hover{
+    color: #fff;
+    background-color: gold;
+    outline: gold solid 0.01rem;
+}

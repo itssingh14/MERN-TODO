@@ -1,0 +1,30 @@
+.profileRow{
+    margin-top: 5rem;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.profileHeading{
+    margin-bottom: 2rem;
+    color: #2c4384;
+    font-size: 2.2rem;
+}
+
+.profilePara{
+    font-size: 1.1rem;
+}
+
+.profileImg{
+    border-radius: 50%;
+    width: 10rem;
+    height: 10rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 2rem;
+}
+
+.profileCard{
+    padding: 2rem;
+}
